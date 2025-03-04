@@ -105,7 +105,6 @@ docs/_build/
 .python-version
 
 # Editor/IDE settings
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
